@@ -1,0 +1,10 @@
+.box{
+	height: 110vh;
+	background-color: maroon;
+}
+
+h1{
+	font-size: 48px;
+	color: white;
+	text-align: center;
+}
